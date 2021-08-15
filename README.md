@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update by ChoBlack
 
-CSS got so much better...
+HTML & CSS 
