@@ -16,6 +16,13 @@ body{
     margin-right:5px;
 }
 
-.state-bar__column:nth-child(2) span{
+.state-bar__column:nth-child(2){
+    display: flex;
     justify-content: center;
+}
+
+.state-bar__column:last-child{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
 }
